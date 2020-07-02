@@ -507,11 +507,10 @@ Advisory Committee Meetings</h5>
 	More information about <a href="https://www.w3.org/Member/Meeting/">Advisory Committee meetings</a> [[AC-MEETING]]
 	is available at the Member Web site.
 
-<h3 id="Team">
+<h3 id="Team" oldids="def-Director">
 The W3C Team</h3>
 
 	The <dfn export lt="Team | W3C Team">Team</dfn> consists of
-	the Director,
 	<dfn>CEO</dfn>,
 	W3C paid staff,
 	unpaid interns,
@@ -524,32 +523,20 @@ The W3C Team</h3>
 	and communicates with the Members and the public
 	about the Web and W3C technologies.
 
-	The [=Director=] and CEO <em class="rfc2119">may</em> delegate responsibility
+	The and CEO <em class="rfc2119">may</em> delegate responsibility
 	(generally to other individuals in the Team)
-	for any of their roles described in this document,
-	except <a href="#tag-participation">participation in the TAG</a>.</p>
+	for any of their roles described in this document.
 	Decisions being described in this document
-	as being <dfn noexport lt="Team Decision | Team's Decision">Team Decisions</dfn> derive from the [=Director=] and [=CEO=]'s authority,
+	as being <dfn noexport lt="Team Decision | Team's Decision">Team Decisions</dfn> derive from the [=CEO=]'s authority,
 	even when they are carried out by other members of the [=Team=].
 
-	Note: This does not imply that the CEO or Director are expected to make all decisions personally,
+	Note: This does not imply that the CEO is expected to make all decisions personally,
 	and that the Team merely executes.
 	It is generally expected
-	that the CEO and Director will take the Team's input into consideration when making decisions personally,
+	that the CEO will take the Team's input into consideration when making decisions personally,
 	and that they will delegate various responsibilities to individuals or groups within the Team,
 	as well as define the mechanisms by which this delegation is managed.
-	Nevertheless, the CEO and Director have the ultimate authority within the Team.
-
-	The <dfn id="def-Director" export lt="Director|W3C Director">Director</dfn> is the lead technical architect at W3C,
-	whose responsibilities are identified throughout this document in relevant places.
-	Some key ones include:
-	assessing <a href="#def-Consensus" id="DirectorDecision">consensus</a> within W3C for architectural choices,
-	publication of <a href="#Reports">technical reports</a>,
-	and chartering new Groups;
-	appointing group <a href="#GeneralChairs">Chairs</a>,
-	adjudicating as "tie-breaker" for [=Group decision appeals=],
-	and deciding on the outcome of formal objections;
-	the Director is generally Chair of the <a href="#TAG">TAG</a>.
+	Nevertheless, the CEO have the ultimate authority within the Team.
 
 	Team administrative information such as Team salaries,
 	detailed budgeting,
@@ -1270,7 +1257,7 @@ Consensus</h3>
 	or <a href="#distributed-meeting">distributed</a>)
 	as well as through email.
 
-	Note: The Director, CEO, and COO have the role of
+	Note: The CEO, and COO have the role of
 	assessing consensus within the Advisory Committee.
 
 	The following terms are used in this document
